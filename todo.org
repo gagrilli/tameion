@@ -1,0 +1,15 @@
+* TODO shell script
+** stage for dialog UI
+** stage for sqltool commands
+
+* TODO tameion.ods
+** run 
+** import CSV 
+** rework macro
+
+* TODO ODB
+** configuration
+** deploy ODBs
+
+
+
